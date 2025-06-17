@@ -1,0 +1,12 @@
+n= input("Enter your string ")
+print("The string is: ", n)
+x = 'learning python'
+print("first char of string",n[0])
+print("first and last limit",n[0:8])
+print("only last limit",n[:8])
+print("both limit",n[7:10])
+print("only start limit",n[7:])
+print("length",len(n))
+print("with step",n[1:len(n):5])
+print("concate",(n+x))
+print("repetition",n*3)     
