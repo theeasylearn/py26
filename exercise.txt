@@ -1,0 +1,3 @@
+1) write a program to findout whether given shape is portrait or landscape from given length and width 
+2) write a program to findout whether given year is milenium year or not. 
+3) write a program to accept month number from user and display how many days month has 
