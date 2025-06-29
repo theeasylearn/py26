@@ -12,3 +12,8 @@
 
 5)  write a program to findout who has score maximum runs from given 4 player run 
 6)  write a program to findout who has score maximum runs from given 5 player run 
+
+loop 
+  100  95  90  85  80  75  70  65  60  ..... 0
+   1    4   9   16  25  36  .... 1000
+   0    1   1   2   3   5   8   13  .... 100
