@@ -1,3 +1,14 @@
 1) write a program to findout whether given shape is portrait or landscape from given length and width 
 2) write a program to findout whether given year is milenium year or not. 
 3) write a program to accept month number from user and display how many days month has 
+4) write a program to findout person obesity level using BMI technique.
+    ---------------------------------------------------------------------
+    obesity level 
+        Underweight: BMI less than 18.5
+        Normal: BMI between 18.5 to 24.9
+        Overweight: BMI between 25.0  29.9
+        Obese: BMI between 30.0  34.9
+        Extremely Obese: BMI 35.0 and above
+
+5)  write a program to findout who has score maximum runs from given 4 player run 
+6)  write a program to findout who has score maximum runs from given 5 player run 
