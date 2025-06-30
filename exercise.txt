@@ -29,3 +29,7 @@ write a program to display only countries from europe out of the list which 50 c
 
 write a program to findout largest number from numeric list using for each loop 
 write a program to findout minimum number from numeric list using for each loop 
+
+nested loop 
+--------------------------
+write a program to findout all the prime numbers between 1 to 100 
