@@ -1,0 +1,35 @@
+1) write a program to findout whether given shape is portrait or landscape from given length and width 
+2) write a program to findout whether given year is milenium year or not. 
+3) write a program to accept month number from user and display how many days month has 
+4) write a program to findout person obesity level using BMI technique.
+    ---------------------------------------------------------------------
+    obesity level 
+        Underweight: BMI less than 18.5
+        Normal: BMI between 18.5 to 24.9
+        Overweight: BMI between 25.0  29.9
+        Obese: BMI between 30.0  34.9
+        Extremely Obese: BMI 35.0 and above
+
+5)  write a program to findout who has score maximum runs from given 4 player run 
+6)  write a program to findout who has score maximum runs from given 5 player run 
+
+loop 
+  100  95  90  85  80  75  70  65  60  ..... 0
+   1    4   9   16  25  36  .... 1000
+   0    1   1   2   3   5   8   13  .... 100
+
+write a program to find out whether given number is prime number or not. 
+write a program to findout whether given number is composite number or not.
+write a program to findout whether given number is perfect number or not.
+write a program to findout whether given number is harshad number or not.
+
+
+write a program to count no of vowels in given string using for loop 
+write a program to display only countries from europe out of the list which 50 countries around the world.
+
+write a program to findout largest number from numeric list using for each loop 
+write a program to findout minimum number from numeric list using for each loop 
+
+nested loop 
+--------------------------
+write a program to findout all the prime numbers between 1 to 100 
