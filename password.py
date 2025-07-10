@@ -33,4 +33,3 @@ def GeneratePassword(length=12):
         MyPassword.append(mix[random.randint(0,size)])
         count+=1
     return ''.join(MyPassword) #return MYPassword which is list will be return as string    
-    
